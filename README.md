@@ -29,7 +29,7 @@ If you come across any issues, please file them on the **[Github project issue t
 
 Documentation
 -----------------------------------------------------------------------------------------------------
-**Full documentation of each function is below**, see **[gengo.pl](https://github.com/ekessel/mygengo-perl-new/blob/master/gengo.pl)** for a tested example skript.
+**Full documentation of each function is below**, see **[gengo.pl](https://github.com/ekessel/mygengo-perl-new/blob/master/gengo.pl)** for a tested example script.
 
 This should be enough to get anyone started; the library is very well documented, and each
 function should have accompanying comments and Perldocs if you take a quick read through!
