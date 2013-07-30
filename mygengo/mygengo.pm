@@ -81,7 +81,8 @@ sub new {
         publicKey => $publicKey,
         privateKey => $privateKey,
         useSandbox => $useSandbox,
-        apiURL => ($useSandbox ? 'http://api.sandbox.mygengo.com/v1.1' : 'http://api.mygengo.com/v1.1'),
+        # apiURL => ($useSandbox ? 'http://api.sandbox.mygengo.com/v1.1' : 'http://api.mygengo.com/v1.1'),
+		apiURL => ($useSandbox ? 'http://api.sandbox.gengo.com/v2/' : 'http://api.gengo.com/v2'),
         client => $client,
         json => $json
     };
