@@ -3,7 +3,7 @@
 use strict;
 use warnings;
 use JSON;
-use mygengo;
+use mygengo::mygengo;
 use Data::Dumper;
 
 # Get an instance of a mygengo client
