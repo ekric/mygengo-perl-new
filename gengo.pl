@@ -8,7 +8,7 @@ use Data::Dumper;
 
 # Get an instance of a mygengo client
 # Sandbox
-my $mygengo = MyGengo->new('public-key', 'private-key', 'true');
+my $mygengo = MyGengo->new('-jf78Pv{q3F3YWWOoO~)B7D0c[Q|FwnDpXRQmy94wXLjFAvAJrB77GPw|M-c(RTy', 'vdR2{~R3xy[$$9ScGIrYNSQekeLj-yPTdEy_[i9Oj4ahtRzXCIeq8ZR-lFSY4RoZ', 'true');
 # Live
 # my $mygengo = MyGengo->new(public-key', 'private-key', 'false');
 
